@@ -1,0 +1,14 @@
+
+
+.NewChat span :hover{
+    transform: scale(1.1);
+}
+.Community span :hover{
+    transform: scale(1.1);
+}
+.Status span :hover{
+    transform: scale(1.1);
+}
+.NewsIcon span :hover{
+    transform: scale(1.1);
+}
